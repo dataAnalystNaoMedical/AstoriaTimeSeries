@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -11,14 +12,30 @@
     <link rel="shortcut icon" href="#">
 
 </head>
+
 <body>
 
-        <header title="Note : dates are converted to datetime for compatibility ignore"> 
-            For Astoria 
-        </header>
-        <div class="info"> yhat : implies what best estimated value <br> yhat_lower : implies the best lower range <br> yhat_upper : implies the best upper range </div>
+    <header title="Note : dates are converted to datetime for compatibility ignore">
+        For
+        <div class="custom" style="width:200px;">
+            <select id="sites">
+                <option disabled selected value> -- select a site -- </option>
+                <option value="1">Astoria</option>
+                <option value="2">Hicksville</option>
+                <option value="3">Jackson Heights</option>
+                <option value="4">Bartow</option>
+                <option value="5">Bx174</option>
+            </select>
+        </div>
 
-        <div id="chart_div"></div>
-        
+    </header>
+    <div class="info">
+        yhat : implies what best estimated value <br>
+        yhat_lower : implies the best lower range <br>
+        yhat_upper : implies the best upper range
+    </div>
+    <div id="chart_div"></div>
+
 </body>
+
 </html>
