@@ -1,0 +1,590 @@
+[
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "17",
+    "facilityName": "Astoria - HFMC"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "5",
+    "facilityName": "Astoria Statcare Urgent and Walk-In Medical"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "19",
+    "facilityName": "Bartow - HFMC"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "14",
+    "facilityName": "Bartow Statcare Urgent and Walk-In Medical Care"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "20",
+    "facilityName": "BX174 - HFMC"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "16",
+    "facilityName": "BX174 Statcare Urgent and Walk-In Medical Care"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "59",
+    "facilityName": "Corona - HFMC"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "18",
+    "facilityName": "Crown Heights - HFMC"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "13",
+    "facilityName": "Crown Heights Statcare Urgent and Walk-In Medical Care"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "67",
+    "facilityName": "Downtown Manhattan - HFMC"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "83",
+    "facilityName": "HFMC Televisit home"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "3",
+    "facilityName": "Hicksville - HFMC"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "22",
+    "facilityName": "Jackson Heights - HFMC"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "21",
+    "facilityName": "Jackson Heights Statcare Urgent and Walk-in Medical Care"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "28",
+    "facilityName": "Jamaica - HFMC"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "27",
+    "facilityName": "Jamaica Statcare Urgent and Walk-In Medical Care"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "57",
+    "facilityName": "Long Island City - HFMC"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "30",
+    "facilityName": "Midtown Manhattan Occ Med"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "63",
+    "facilityName": "Mineola - HFMC"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "79",
+    "facilityName": "NaoMed - Nutrition"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "77",
+    "facilityName": "NaoMed - Psych"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "32",
+    "facilityName": "NaoMed-CLINIC-Bayshore"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "58",
+    "facilityName": "NaoMed-CLINIC-Corona"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "66",
+    "facilityName": "NaoMed-CLINIC-Downtown Manhattan"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "56",
+    "facilityName": "NaoMed-CLINIC-Long Island City"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "62",
+    "facilityName": "NaoMed-CLINIC-Mineola"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "38",
+    "facilityName": "NaoMed-CLINIC-Williamsburg"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "31",
+    "facilityName": "NaoMed-Mobile Van-Kiki"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "87",
+    "facilityName": "SCUC Worker Comp"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "84",
+    "facilityName": "St. Francis Hospital"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "29",
+    "facilityName": "Statcare Occ Med DBA Nao Medical"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "12",
+    "facilityName": "Statcare Urgent and Walkin Medical Care Hicksville-UC"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "73",
+    "facilityName": "Televisit - Team 1"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "74",
+    "facilityName": "Televisit - Team 2"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "75",
+    "facilityName": "Televisit - Team 3"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "0",
+    "facilityName": "Unknown"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "39",
+    "facilityName": "Williamsburg - HFMC"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "85",
+    "facilityName": "zHicksville Family Medical Care PLLC"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "7",
+    "facilityName": "zHICKSVILLE MEDICAL CARE"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "6",
+    "facilityName": "zJPR URGENT MED CARE BK"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "2",
+    "facilityName": "zJPR URGENT MEDICAL CARE  A"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "10",
+    "facilityName": "zJPR URGENT MEDICAL CARE H"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "86",
+    "facilityName": "zStatcare Urgent & Walk in Medical Care PLLC"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "4",
+    "facilityName": "zStatcare Urgent & Walkin Med Care"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "24",
+    "facilityName": "ZZMidtown Manhattan Statcare Urgent and Walk-In Medical Care"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "34",
+    "facilityName": "ZzStatcare-TM-Aftercare"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "37",
+    "facilityName": "ZzStatcare-TM-COVID"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "65",
+    "facilityName": "ZzStatcare-TM-Team 3"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "45",
+    "facilityName": "ZZZ Televisits - Astoria"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "61",
+    "facilityName": "ZZZBig Apple - HFMC"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "76",
+    "facilityName": "ZZZJackson Heights - GYN"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "23",
+    "facilityName": "ZZZMidtown Manhattan - HFMC"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "26",
+    "facilityName": "ZZZMidtown Televisits"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "60",
+    "facilityName": "ZZZNaoMed-CLINIC-Big Apple"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "70",
+    "facilityName": "ZZZNaoMed-Free At Home Medical Visit - Nassau County"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "71",
+    "facilityName": "ZZZNaoMed-Free Covid Testing"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "69",
+    "facilityName": "ZZZNaoMed-Free Covid Testing-Nassau County"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "64",
+    "facilityName": "ZZZNaoMed-Mobile-Home Visits"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "68",
+    "facilityName": "ZZZNaoMed-TELE-Big Apple"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "46",
+    "facilityName": "ZZZTelevisits - Bartow"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "47",
+    "facilityName": "ZZZTelevisits - Bx174"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "78",
+    "facilityName": "ZZZTelevisits - Corona"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "50",
+    "facilityName": "ZZZTelevisits - Crown Heights"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "80",
+    "facilityName": "ZZZTelevisits - Downtown Manhattan"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "48",
+    "facilityName": "ZZZTelevisits - Hicksville"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "51",
+    "facilityName": "ZZZTelevisits - Jackson Heights"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "52",
+    "facilityName": "ZZZTelevisits - Jamaica"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "72",
+    "facilityName": "ZZZTelevisits - Long Island City"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "82",
+    "facilityName": "ZZZTelevisits - Mineola"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "54",
+    "facilityName": "ZZZTelevisits - PCP"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "53",
+    "facilityName": "ZZZTelevisits - Williamsburg"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "49",
+    "facilityName": "ZZZTelevisits-Workers Comp"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "15",
+    "facilityName": "zzzz Do not use Speciality"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "25",
+    "facilityName": "ZZZZ...Statcare-Televisits"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "81",
+    "facilityName": "zzzzBANNED PERMANENTLY from the Company"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "44",
+    "facilityName": "ZzzzNaoMed-HUB-Hicksville-Tiki"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "55",
+    "facilityName": "ZzzzNaoMed-HUB-Long Beach-Lola"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "33",
+    "facilityName": "ZzzzNaoMed-HUB-Massapequa-Momo"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "42",
+    "facilityName": "ZzzzNaoMed-HUB-North Babylon-Bibi"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "41",
+    "facilityName": "ZzzzNaoMed-HUB-North Merrick-Miki"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "40",
+    "facilityName": "ZzzzNaoMed-HUB-Riverhead-Rivi"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "43",
+    "facilityName": "ZzzzNaoMed-HUB-Staten Island-Riki"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "35",
+    "facilityName": "ZzzzNaoMed-HUB-Westbury-Wowo"
+  },
+  {
+    "n": "selectOption",
+    "@layoutClass": "useItem",
+    "@refDataItem": "Facility ID",
+    "facilityId": "36",
+    "facilityName": "ZzzzNaoMed-HUB-WestHampton-Gigi"
+  }
+]
